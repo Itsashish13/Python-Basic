@@ -1,0 +1,20 @@
+# Day 1 - Logic practice and truth table style basics
+# AND, OR, NOT examples
+a = True
+b = False 
+
+print("and AND b:", a and b)
+print("a OR b:", a or b)
+print("NOT a:", not a)
+
+#Simple conditional logic
+x = 10 
+y = 20
+if x < y:
+  print("x is samller than y")
+else:
+print("x is greater than or equal to y")
+
+#Simple loop
+for i in range(5):
+  print("Number:", i)
