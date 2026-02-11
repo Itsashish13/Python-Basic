@@ -1,0 +1,24 @@
+# Day 2 -Conditional and loops(small practice)
+
+num = 7
+# Check even or odd
+if num % 2 == 0:
+     print(num, "is even")
+else:
+    print(num, "is odd")
+
+# Simple grading logic
+marks = 75
+
+if marks >= 90:
+  print("Grade: A")
+elif marks >= 75:
+   print("Grade: B")
+elif marks >= 60:
+   print("Grade: C")
+else:
+   print("Grade: D")
+
+# Count numbers using a loop
+for i in range(1, 6):
+print("Count:", i)
