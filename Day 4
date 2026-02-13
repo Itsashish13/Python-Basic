@@ -1,0 +1,5 @@
+names = ["Alex", "Sam", "Riya"]
+print("Names", names)
+
+names.append("Ashish")
+print("Updated names:", names)
