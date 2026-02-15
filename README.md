@@ -27,3 +27,8 @@ Practiced string traversal.
 Built reversed string loop.
 Understood how string concatenation works.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 6:
+Used while loop.
+Practiced interger division (//)
+Counted number of digits in a number.
+Understood how numbers shrink using n = n // 10
