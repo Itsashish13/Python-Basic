@@ -33,3 +33,8 @@ Practiced interger division (//)
 Counted number of digits in a number.
 Understood how numbers shrink using n = n // 10.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 7:
+Extracted digits using modulus operater.
+Reversed a number using loop.
+Practiced number manipulation logic.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
