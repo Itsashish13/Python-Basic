@@ -1,0 +1,13 @@
+n = 153
+original = n
+result = 0
+
+while n > 0:
+    digit = n % 10
+    result = result + digit**3
+    n = n // 10
+
+if result == original:
+    print("Armstrong Number.")
+else:
+    print("Not an Armstrong Number.")
