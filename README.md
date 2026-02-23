@@ -72,3 +72,9 @@ Day 13:
 Implemented a Python program to count the frequency of each character in a string using dictionaries.
 Practiced string traversal and basic hashing concepts.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 14:
+Concepts used:
+Loops.
+String handling.
+Conditional statements.
+Built-in string functions.
