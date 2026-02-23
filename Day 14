@@ -1,0 +1,15 @@
+text =  input("Enter a srting: ").lower()
+
+vowels = "aeiou"
+vowel_count = 0
+constant_count = 0
+
+for char in text:
+    if char.isalpha():
+        if char in vowels:
+            vowel_count += 1
+        else:
+            constant_count += 1
+            
+print("Vowels: ", vowel_count)
+print("Constants: ", constant_count)
