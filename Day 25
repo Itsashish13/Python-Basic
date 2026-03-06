@@ -1,0 +1,30 @@
+import math
+
+n = int(input("Enter number of elements: "))
+
+arr = []
+print("Enter sorted elements:")
+for i in range(n):
+    num = int(input())
+    arr.append(num)
+    
+target = int(input("Enter element to search: "))
+
+step = int(math.sqrt(n))
+prev = 0
+found = False
+
+while prev < n and arr[min(step, n) - 1] < target:
+    prev = step
+    step += int(math.sqrt(n))
+    if prev >= n:
+        break
+    
+for i in range(prev, min(step, n)):
+    if arr[i] == target:
+        print("Element found at index: ", i)
+        found = True
+        break
+    
+if not found:
+    print("Element not found.")
