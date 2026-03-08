@@ -1,0 +1,35 @@
+def binary_search(arr, left, right, target):
+    while left <= right:
+        mid = (left + right) // 2
+        
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+            
+        return -1
+        
+def exponential_search(arr, targert):
+    n = len(arr)
+    
+    if arr[0] == target:
+        return 0
+        
+    i = 1
+    while i < n and arr[i] <= target:
+        i = i * 2
+        
+    return binary_search(arr, i // 2, min(i, n - 1), target)
+    
+n = int(input("Enter number of elements: "))
+arr = list(map(int, input("Enter sorted elements: ").split()))
+target = int(input("Enter element to search: "))
+
+result = exponential_search(arr, target)
+
+if result != -1:
+    print("Element found at indexl: ", result)
+else:
+    print("Element not found.")
