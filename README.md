@@ -199,3 +199,5 @@ Output example:Enter text: ABABDABACDABABCABAB
 Enter pattern: ABABCABAB
 Pattern found at index: 10
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Today we wont be practing or performing anything because of my exams are going on so yeah from today I wont be able to do anything.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
