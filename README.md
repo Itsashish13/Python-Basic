@@ -8,7 +8,7 @@ Basic logic statements.
 Boolean operations (AND, OR, NOT).
 Simple condition and loops.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 2:
+Day 2: Practice of conditions and loops.
 Concepts used:
 Practiced if-else conditions.
 Checked even/odd logic.
