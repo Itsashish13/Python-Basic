@@ -15,7 +15,7 @@ Checked even/odd logic.
 Simple grading system using elif.
 Basic for loop counting.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 3:
+Day 3: Age checking eligibility for voting.
 Concepts used:
 Practiced taking user input in Python.
 Used if-else conditions.
