@@ -21,7 +21,7 @@ Practiced taking user input in Python.
 Used if-else conditions.
 Fixed indentation error (learned how Python handles blocks).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 4:
+Day 4: Name list update.
 Concepts used:
 Practiced lists (append, print).
 Using "append" we can new names.
