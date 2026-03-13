@@ -26,7 +26,7 @@ Concepts used:
 Practiced lists (append, print).
 Using "append" we can new names.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 5:
+Day 5:Program to reverse a string.
 Concepts used:
 Practiced string traversal.
 Built reversed string loop.
