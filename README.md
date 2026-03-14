@@ -32,7 +32,7 @@ Practiced string traversal.
 Built reversed string loop.
 Understood how string concatenation works.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 6:
+Day 6: Program for digit counting.
 Concepts used:
 Used while loop.
 Practiced interger division (//)
