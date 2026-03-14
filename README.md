@@ -32,14 +32,14 @@ Practiced string traversal.
 Built reversed string loop.
 Understood how string concatenation works.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 6: Program for digit counting.
+Day 6: Program for digit counting logic.
 Concepts used:
 Used while loop.
 Practiced interger division (//)
 Counted number of digits in a number.
 Understood how numbers shrink using n = n // 10.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 7:
+Day 7: Program for number reversal algorithm.
 Concepts used:
 Extracted digits using modulus operater.
 Reversed a number using loop.
