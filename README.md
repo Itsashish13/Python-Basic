@@ -45,7 +45,7 @@ Extracted digits using modulus operater.
 Reversed a number using loop.
 Practiced number manipulation logic.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 8:
+Day 8: Program to check Armstrongs number.
 Concepts used:
 Extracted digits using modulus.
 Used power operator (**).
