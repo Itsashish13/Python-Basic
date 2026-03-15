@@ -51,7 +51,7 @@ Extracted digits using modulus.
 Used power operator (**).
 Implemented Armstrong number check.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Day 9:
+Day 9: Program to implement array reversal.
 Concepts used:
 Used while loop.
 Swapping elements.
